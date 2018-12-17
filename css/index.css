@@ -1,0 +1,65 @@
+.nav:link {
+  font-size: 25px;
+}
+
+.nav:visited {
+  text-decoration: none;
+}
+
+.nav:hover {
+  text-decoration: underline;
+}
+
+.nav:active {
+  text-decoration: underline;
+}
+.name{
+  font-size: 70px;
+}
+.logo{
+  font-size: 30px;
+}
+body{
+  /* background-image: url("../img/stone.jpeg"); */
+  background-color:black !important;
+
+}
+.motive{
+  font-size: 40px;
+  font-family: 'Kurale', serif;
+}
+.motive-header{
+  font-size: 15px;
+}
+.projo{
+  font-size: 50px;
+  font-family: 'Kurale', serif;
+  font-family: 'Delius', cursive;
+  font-family: 'Scada', sans-serif;
+}
+.pro-head{
+  font-size: 25px;
+}
+.hr{
+  width: 40%;
+}
+.decsription{
+  font-size: 16px;
+}
+.shape{
+  width: 300px;
+  height: 200px;
+
+}
+.button4 {border-radius: 12px;}
+
+.skill-img{
+  width: 150px;
+  height: 150px;
+}
+i{
+  margin-right: 10px;
+}
+.live-site{
+  font-size: 15px;
+}

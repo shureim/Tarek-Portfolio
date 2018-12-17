@@ -1,0 +1,20 @@
+a:link {
+  text-decoration: none;
+  font-size: 25px;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+body{
+  background-image: url(../img/4k-wallpaper-ball-point-pen-ballpen-1267414.jpg);
+  background-repeat: no-repeat;
+}
